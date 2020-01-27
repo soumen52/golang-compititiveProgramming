@@ -6,3 +6,7 @@ So the traversal result will be in sorted.
 Nothing else just found the kth element in the array . Done.
 
 Happy coding.
+
+
+Code complexity : O(n) to traverse the tree
+Time Complexity : O(n) to keep the inorder list
