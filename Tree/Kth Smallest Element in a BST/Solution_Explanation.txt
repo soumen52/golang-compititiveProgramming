@@ -1,0 +1,8 @@
+This problem is quite straight forward.
+
+We have to just traverse through the binary search tree and get the result in inorder travarsel from .
+So the traversal result will be in sorted.
+
+Nothing else just found the kth element in the array . Done.
+
+Happy coding.
