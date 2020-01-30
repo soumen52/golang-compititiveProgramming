@@ -1,0 +1,2 @@
+Time Complexity := O(m+n) where m is the length of first String and n is the length of sencond string
+Space Complexity := O(m) where m is the length of first string
